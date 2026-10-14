@@ -36,3 +36,4 @@ resumes against job descriptions.
 This application is a portfolio prototype.
 Similarity scores are not hiring decisions.
 Human review is required.
+## AI Resume Screening Project Update - October 2026
